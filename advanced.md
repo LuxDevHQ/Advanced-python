@@ -1,6 +1,4 @@
-# Think Python - Advanced Concepts Guide for Beginners
-
-*Based on Think Python, 2nd Edition by Allen B. Downey*
+# Advanced Concepts Guide for Beginners
 
 This comprehensive guide covers advanced Python concepts with beginner-friendly explanations, practical examples, and real-world applications.
 
